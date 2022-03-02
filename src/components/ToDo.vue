@@ -254,7 +254,7 @@ form button:hover {
 .contentTask {
   display: flex;
   align-items: center;
-  gap: 20%;
+  gap: 10px;
 }
 
 .tasks button {
