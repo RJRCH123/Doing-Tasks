@@ -9,7 +9,7 @@ Proyecto realizado con el fin de practicar nociones de Vue.
 *** 
 
 <div align="center">
-  <img src="./src/assets/VideoDemostracion.gif" alt="Doing Tasks" width="500">
+  <img src="./src/assets/VideoDemostracion.gif" alt="Doing Tasks" width="800">
 </div>
 
  ***
